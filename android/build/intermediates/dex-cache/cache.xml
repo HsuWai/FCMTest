@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Hsu Wai\Projects\Qarah5\FCMTest\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="C:\Hsu Wai\Projects\Qarah5\FCMTest\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-11.0.4_9ee0effae2fee27c1c730e3af9d6c79b4138fa19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Hsu Wai\Projects\Qarah5\FCMTest\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="C:\Hsu Wai\Projects\Qarah5\FCMTest\android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-11.0.4_8daa3a66af290e47d781d9c6fc2fead4b663a5ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Hsu Wai\Projects\Qarah5\FCMTest\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="C:\Hsu Wai\Projects\Qarah5\FCMTest\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.0.1_89fe989f2bad2584648a9ac1b5b24117000f20a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hsuwaiwaitun\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Hsu Wai\Projects\Qarah5\FCMTest\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_900d80a2a5286c848cd907a63ead31f1efa0ccd9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Hsu Wai\Projects\Qarah5\FCMTest\android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Hsu Wai\Projects\Qarah5\FCMTest\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.2.0_45d533f5afe89950c71e4d9fee3331cd8b13c939.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hsuwaiwaitun\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Hsu Wai\Projects\Qarah5\FCMTest\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_af0ccf28e126eef6575ee86c4eb58279a17c9dc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hsuwaiwaitun\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Hsu Wai\Projects\Qarah5\FCMTest\android\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_cbb709d70d5a1d1934765179700ee222ebc8f1d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Hsu Wai\Projects\Qarah5\FCMTest\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Hsu Wai\Projects\Qarah5\FCMTest\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.2.0_072ae50ad1c09b2f79b9302ccfa6b8587dce183a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Hsu Wai\Projects\Qarah5\FCMTest\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="C:\Hsu Wai\Projects\Qarah5\FCMTest\android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-11.0.4_37b8cbff1209ec5f97954dd383d25f8995375319.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Hsu Wai\Projects\Qarah5\FCMTest\android\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Hsu Wai\Projects\Qarah5\FCMTest\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.2.0_87c179802dd4837d994d5c640f1c6e7e88f97f9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Hsu Wai\Projects\Qarah5\FCMTest\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="C:\Hsu Wai\Projects\Qarah5\FCMTest\android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-11.0.4_e0f05b0d4f8261c299863b9a6026b8c25b0bdd5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Hsu Wai\Projects\Qarah5\FCMTest\android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Hsu Wai\Projects\Qarah5\FCMTest\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.2.0_3e0703cf9f1e78fd0308662255c9dd9d35ff5e9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hsuwaiwaitun\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Hsu Wai\Projects\Qarah5\FCMTest\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_2150bfff9b82f15947cf0ec57e5bb9d30196d38e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Hsu Wai\Projects\Qarah5\FCMTest\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.47.2\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\Hsu Wai\Projects\Qarah5\FCMTest\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_d58c49ac49bc2caf7e1e65a86d5d3bdb1f9e94ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Hsu Wai\Projects\Qarah5\FCMTest\android\app\build\intermediates\exploded-aar\FCMTest\react-native-vector-icons\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f2cf527de8d0bd35d72088fafea02395ba4a9eec">
+        <dex dex="C:\Hsu Wai\Projects\Qarah5\FCMTest\android\app\build\intermediates\pre-dexed\debug\FCMTest-react-native-vector-icons-unspecified_d800d947fb5ed627e102cbcdbaa9bbf915a0fc9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Hsu Wai\Projects\Qarah5\FCMTest\android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Hsu Wai\Projects\Qarah5\FCMTest\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.2.0_bd0d165029d2434456b204cb79896f5cf3b7a6a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Hsu Wai\Projects\Qarah5\FCMTest\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="C:\Hsu Wai\Projects\Qarah5\FCMTest\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.0.1_b7351f9ad94d3605d55f6aba1268b2ddcbf96b3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Hsu Wai\Projects\Qarah5\FCMTest\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="C:\Hsu Wai\Projects\Qarah5\FCMTest\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.0.1_4fa496180f48f52d37170e9b08dbb6f18224ac88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Hsu Wai\Projects\Qarah5\FCMTest\android\app\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.17\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="248218f163235e6d2a81188eaa1db0ec61193055">
+        <dex dex="C:\Hsu Wai\Projects\Qarah5\FCMTest\android\app\build\intermediates\pre-dexed\debug\me.leolin-ShortcutBadger-1.1.17_5bad51e96f9cd3f6cb00c7af13944137bc791235.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Hsu Wai\Projects\Qarah5\FCMTest\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="C:\Hsu Wai\Projects\Qarah5\FCMTest\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.0.1_2697f35ce32436e51bfc2d0ff19c4750b65f3aad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Hsu Wai\Projects\Qarah5\FCMTest\android\app\build\intermediates\exploded-aar\FCMTest\react-native-fcm\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d2d979b8e388171c5b39b09cc705c25332c8cdfc">
+        <dex dex="C:\Hsu Wai\Projects\Qarah5\FCMTest\android\app\build\intermediates\pre-dexed\debug\FCMTest-react-native-fcm-unspecified_2b9c26559390dcec7703bb697bcd63627950bad1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Hsu Wai\Projects\Qarah5\FCMTest\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="C:\Hsu Wai\Projects\Qarah5\FCMTest\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.0.1_2ea00b781bd33f9f7542088a860da4d5bf4eb6be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hsuwaiwaitun\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Hsu Wai\Projects\Qarah5\FCMTest\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_24c948bc78827ccf03ea959904477e593917ee3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Hsu Wai\Projects\Qarah5\FCMTest\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Hsu Wai\Projects\Qarah5\FCMTest\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_53dbbd69f0ff514070476322dabd6c3183c1e3e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Hsu Wai\Projects\Qarah5\FCMTest\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.47.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="576b5113887747a7592650ae14d980e1c57983c4">
+        <dex dex="C:\Hsu Wai\Projects\Qarah5\FCMTest\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.47.2_453b21f006729323df6a6163231ec49947706bf7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Hsu Wai\Projects\Qarah5\FCMTest\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f47f4d5bdfd7d7bf330945b8a7ccce4ab437a710">
+        <dex dex="C:\Hsu Wai\Projects\Qarah5\FCMTest\android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-11.0.4_15a3fa04b10b05ddd196217d66d68a090ea3b2b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hsuwaiwaitun\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="C:\Hsu Wai\Projects\Qarah5\FCMTest\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_623249767707c0ba946b2ddd02cd1358dd974229.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Hsu Wai\Projects\Qarah5\FCMTest\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="C:\Hsu Wai\Projects\Qarah5\FCMTest\android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-11.0.4_752a864b8fc562a34be9f3626dd38e73d7502042.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Hsu Wai\Projects\Qarah5\FCMTest\android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Hsu Wai\Projects\Qarah5\FCMTest\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.2.0_dfa7dbac73cce2895c554cf63488e8714a25e482.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Hsu Wai\Projects\Qarah5\FCMTest\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="C:\Hsu Wai\Projects\Qarah5\FCMTest\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-11.0.4_17edc5b8689a694e9c84311610daf8bba437947b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Hsu Wai\Projects\Qarah5\FCMTest\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="C:\Hsu Wai\Projects\Qarah5\FCMTest\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.0.1_6f0014a9d2f72c07bfa5a8deb7e2180693efacbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hsuwaiwaitun\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Hsu Wai\Projects\Qarah5\FCMTest\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_2b497cb6e69d74d385212df744800685eda7d9b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Hsu Wai\Projects\Qarah5\FCMTest\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\Hsu Wai\Projects\Qarah5\FCMTest\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_444e3a97294693f6f7b84d4a6e7e326200497a23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hsuwaiwaitun\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\Hsu Wai\Projects\Qarah5\FCMTest\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_9437fdb39d764d896956fa1b50d4c3163607b326.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Hsu Wai\Projects\Qarah5\FCMTest\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\Hsu Wai\Projects\Qarah5\FCMTest\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_9d3a5b4595135956c326ea71bffe7cb400c97f87.jar" />
+    </item>
+
+</items>
